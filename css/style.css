@@ -140,7 +140,7 @@
      GENERAL               
   -----------------------------------------*/
   body {
-    background-color:rgb(206, 208, 205);
+    background-color:lightgray;
   }
   * {
     -webkit-box-sizing: border-box;
