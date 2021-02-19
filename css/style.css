@@ -140,7 +140,7 @@
      GENERAL               
   -----------------------------------------*/
   body {
-    background-color:rgb(228, 225, 225);
+    background-color:rgb(208, 206, 206);
   }
   * {
     -webkit-box-sizing: border-box;
@@ -173,7 +173,6 @@
 
   .navbar {
     background: transparent;
-    background-image: url('images/mixes_graphs.png');
     padding: 0.3rem 1rem;
     transition: all 300ms ease-in-out;
     position: absolute;
